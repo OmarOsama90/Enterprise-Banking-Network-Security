@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local/private configuration exports
+*.secret
+*.private
+*.local
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+~*

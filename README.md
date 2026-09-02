@@ -17,7 +17,7 @@ This lab models a banking environment with:
 
 ## Topology
 
-![Network Topology](docs/topology/topology.jpeg)
+<img width="1528" height="785" alt="TOPOLOGY" src="https://github.com/user-attachments/assets/9873315d-1b52-457f-a52e-1c618c4fe2d0" />
 
 ## Technologies
 
